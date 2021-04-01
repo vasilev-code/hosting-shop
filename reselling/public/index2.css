@@ -1,0 +1,31 @@
+li {
+    list-style-type: none;
+}
+header {
+    background-color: #303030;
+}
+.header a {
+    color: white;
+}
+.header a:hover {
+    color: #000;
+}
+section {
+    background-color: black;
+    background: url("img/datacenter-servers3.jpg") no-repeat;
+    height: 50%;
+    opacity: 0.9;
+    color: white;
+}
+footer {
+    background-color: #303030;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    position: relative;
+}
+.form-group {
+    width: 300%;
+}
